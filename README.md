@@ -1,2 +1,4 @@
 # new-website
-new website for https://www.foodmanufacturingsolutions.com
+Prototype website for https://www.foodmanufacturingsolutions.com
+
+Open `index.html` in your browser to preview the static site.
